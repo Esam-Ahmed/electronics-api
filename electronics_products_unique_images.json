@@ -484,17 +484,6 @@
       "rating": 4.2
     },
     {
-      "id": 45,
-      "title": "Galaxy Tab Active",
-      "price": 1168,
-      
-      "category": "tablet",
-      "brand": "Samsung",
-      "description": "Galaxy Tab Active by Samsung with premium modern electronic features.",
-      "stock": 45,
-      "rating": 4.3
-    },
-    {
       "id": 46,
       "title": "Galaxy Book4 Ultra",
       "price": 1198,
