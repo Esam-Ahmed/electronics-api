@@ -1253,17 +1253,7 @@
       "stock": 9,
       "rating": 5.0
     },
-    {
-      "id": 115,
-      "title": "HP Mobile Device 115",
-      "price": 73,
-      
-      "category": "mobile",
-      "brand": "HP",
-      "description": "Modern mobile product from HP.",
-      "stock": 4,
-      "rating": 4.6
-    },
+   
     {
       "id": 116,
       "title": "HP Gaming Device 116",
